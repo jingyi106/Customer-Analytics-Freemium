@@ -3,6 +3,7 @@ This project aims at using data mining to solve marketing problems. This case ex
 
 ## File
 [Report]Freeemium.pdf is a summary of the project
+
 [Slides]Freemium.pdf is sides for presentation
 
 ## Model
