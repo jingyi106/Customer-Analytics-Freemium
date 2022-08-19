@@ -19,3 +19,4 @@ Jingyi Ran, Trista Lin, William Peng, Sugura Isoda
 4. Compare Losigtic Regression and Decision Tree. 
 5. Target customers who could bring in the most profits by providing them free subscription for three months 
 
+Since it's an academic course project, the code cannot be uploaded. 
